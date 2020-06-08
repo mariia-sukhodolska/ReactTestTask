@@ -24,9 +24,6 @@
     "noUnusedParameters": true,
     "noImplicitAny": false,
     "experimentalDecorators": true,
-/*
-    "incremental": true,
-*/
     "noFallthroughCasesInSwitch": true
   },
   "include": [
